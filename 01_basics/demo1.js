@@ -1,1 +1,0 @@
-console.log("hey there,I am vikash and learning javascript.");
